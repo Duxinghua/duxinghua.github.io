@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://bitpie.com
+url: http://seodiy.cn
 title: 测试而已
 email: bithernet@gmail.com
 author: getcai
@@ -25,8 +25,6 @@ permalink: pretty
 social:
   - title: email&test.com
     url: mailto:chainclouddotcom@gmail.com
-
- 
 
 google_analytics: 
 show_downloads: true

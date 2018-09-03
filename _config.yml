@@ -1,1 +1,141 @@
-theme: jekyll-theme-slate
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://bitpie.com
+title: Bitpie - Hi Blockchain
+email: bitpiedotcom@gmail.com
+author: getcai
+description:  Bitpie - Hi Blockchain
+copyright: '&copy; 2017 bitpie.com'
+credits: 'The bitpie wallet is based on'
+creditss: "technology."
+logo: /img/logo.png
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/BitpieWallet
+  - title: facebook
+    url: https://www.facebook.com/BitpieOfficial
+  - title: reddit
+    url: https://www.reddit.com/user/bitpie-wallet
+  - title: email
+    url: mailto:support@bitpie.com
+  - title: Medium
+    url: https://medium.com/@Bitpie/ 
+  - title: Steemit
+    url: https://steemit.com/@bitpiewallet
+  - title: sina
+    url: http://weibo.com/bitpiewallet
+  - title: youtube
+    url: https://www.youtube.com/channel/UCX8I3Xyr2y80MWnJBsz1P0g
+
+
+telegram:
+  - title: Chinese
+    url: https://t.me/bitpie1
+  - title: English
+    url: https://t.me/BitpieInternational
+
+
+
+# ----------------------- #
+#   download index.html   #
+# ----------------------- #
+downtitle: 比特派
+downsoftname: 比特派
+iosdownsoftversion: 3.3.3
+iosdownsoftdate: 2018-06-26
+anddownsoftversion: 3.5.2
+anddownsoftdate: 2018-08-29
+
+
+# ----------------------- #
+#   bither   download     #
+# ----------------------- #
+
+bitherdowntitle: 比太钱包
+bitherdownsoftname: Bither
+bitherios: 1.8.2
+bitheriosdate: 2018-02-06
+bitheranddownversion: 1.8.2
+bitheranddate: 2018-02-06
+
+iOSsoftname: 'Bitpie iOS'
+bitherandroidlogo: '/img/logo_bither.jpg'
+downqr: '/img/ios_qr.png'
+downlogo: '/img/bitpie_ios_144.png'
+lesson: bitpie iOS安装教程
+downmobilefirsttitle: 1.第一次打开bitpie的时候会弹出如下框
+downmobilefirst: '/img/MobileIOSStep1.png'
+downmobilesecondtitle: 2.在手机的设置-通用-描述文件与设备管理，信任下面的文件
+downmobilesecond: '/img/MobileIOSStep2.png'
+downmobilethreetitle: 3.信任下面的证书就可以启动bitpie了
+downmobilethree: '/img/MobileIOSStep3.png'
+downhttps: 'https://bitpiedotcom.github.io'
+appstore: 'https://itunes.apple.com/us/app/bitpie-bitcoin-wallet/id1168568820'
+winxin: '/img/weixin.png'
+step1: '/img/step1.png'
+step2: '/img/step2.png'
+step3: '/img/step3.png'
+
+# ----------------------- #
+# android download.index   #
+# ----------------------- #
+androidsoftname: 'Bitpie Android'
+androidqr: '/img/android_qr.png'
+androidlogo: '/img/logo.png'
+androidsha: 'https://github.com/bitpiedotcom/bitpiedotcom.github.com/raw/master/android/SHA256SUMS'
+googleplay: 'https://play.google.com/store/apps/details?id=com.bitpie'
+
+
+# ----------------------- #
+#   download link         #
+# ----------------------- #
+apkdown: 'https://github.com/bitpiedotcom/bitpiedotcom.github.com/raw/master/android/bitpie.apk'
+apkdownq: 'https://dn-bither.qbox.me/bitpie.apk'
+
+
+# ----------------------- #
+#   bither download link  #
+# ----------------------- #
+bitherappstore: 'https://itunes.apple.com/us/app/bither/id899478936'
+bithergoogleplay: 'https://play.google.com/store/apps/details?id=net.bither'
+bitherandroidsha: 'https://github.com/bitpiedotcom/bitpiedotcom.github.com/raw/master/bither/android/SHA256SUMS'
+bitherwin64: 'https://dn-bither.qbox.me/Bither-windows64.exe'
+bitherwin32: 'https://dn-bither.qbox.me/Bither-windows32.exe'
+bithermacos: 'https://dn-bither.qbox.me/bither-desktop.jar'
+bitherlinux: 'https://dn-bither.qbox.me/Bither-linux64.tar'
+
+
+
+# Gems
+gems:
+  - jekyll-paginate
+
+
+# Permalinks
+permalink: /:year-:month-:day/:title
+paginate:  10
+
+# Build settings
+markdown:       kramdown
+
+# ----------------------- #
+#   term index.html   #
+# ----------------------- #
+userAgreementName: 用户服务协议
+userAgreementVersion: 1.1
+userAgreementDate: 2017-11-23
+

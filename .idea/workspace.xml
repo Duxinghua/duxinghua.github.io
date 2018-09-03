@@ -33,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+              <caret column="116" lean-forward="true" selection-start-column="116" selection-end-column="116" />
             </state>
           </provider>
         </entry>
@@ -69,7 +69,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="821" />
@@ -120,15 +120,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491634272136</updated>
-      <workItem from="1535975310620" duration="984000" />
+      <workItem from="1535975310620" duration="987000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="984000" />
+    <option name="totallyTimeSpent" value="987000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="821" extended-state="1" />
+    <frame x="0" y="23" width="1440" height="821" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22128259" />
@@ -210,7 +210,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+          <caret column="116" lean-forward="true" selection-start-column="116" selection-end-column="116" />
         </state>
       </provider>
     </entry>

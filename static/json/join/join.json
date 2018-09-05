@@ -211,10 +211,8 @@
       "id":"j1",
       "name": "Operation specialist",
       "duty": [
-        "各類用戶社羣及社交媒體維護、拓展，及時挖掘及解決用戶問題，提出產品建議；",
-        "針對產品及用戶特點策劃活動並組織及落實；",
-        "通過互聯網線上多渠道實現用戶拉新，分析用戶行爲，對註冊轉化率等指標等進行數據監測，發現問題，形成解決方案；",
-        "從用戶生命週期角度運營用戶，維護活躍用戶、激活沉默用戶，針對不同用戶類型設計有效激勵機制，提升活躍度和留存率。"
+        "Maintain and expand various user communities and social media, mine and solve user problems in a timely manner, and propose product suggestions;",
+        "Plan and organize and implement activities for product and user characteristics;"
       ],
       "need": [
         "Good at APP operation and event planning. Good English reading and writing ability is preferred;",
@@ -226,8 +224,8 @@
       "id":"j2",
       "name": "Development Engineer",
       "duty": [
-        "負責系統開發，維護現有的項目和系統；",
-        "編碼習慣良好。"
+        "Responsible for system development and maintenance of existing projects and systems;",
+        "Good programming habits."
       ],
       "need": [
         "Bachelor's degree in computer science or similar technology (or equivalent level of practical experience);",

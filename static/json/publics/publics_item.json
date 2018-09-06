@@ -1,13 +1,23 @@
 {
   "cn":[
     {
-      "title":"首期比原链 Bytom(BTM) 理财活动开启",
-      "intro":"作为比原链生态参与者和支持者，比特派始终十分看好比原链生态，对比原链相关功能研发一直予以非常大的热情，钱包内也针对比原链适配了相关安全架构。目前，钱包内比原链主网功能已研发完毕，进入紧张的测试阶段，将会尽快与大家见面。为助力比原链主网转换，促进比原链生态发展，比特派在支持比原链主网之际，开启此次 BTM 理财计划。",
-      "data":"2018-08-14",
+      "title":"关于比特派恢复 BCH 充提的公告",
+      "intro":"尊敬的派友：BCH 压测已稳定，比特派现已恢复 BCH 的充提，暂停期间为您带来的不便，敬请谅解！",
+      "data":"2018-09-03",
       "watch":1,
       "id":19,
+      "month":"September",
+      "day":"03",
+      "type":2
+    },
+    {
+      "title":"比特派钱包关于暂停 BCH 充提的公告",
+      "intro":"亲爱的派友：由于 BCH 将于新加坡时间 2018年9月1日 20:00 进行全网压测，为了保证平台用户利益，比特派钱包将于 2018年9月1日 20:00(香港时间)暂停派钱包和派银行中 BCH 的充提，并将于后续压测完成且运行稳定后，重新开放 BCH 充提功能。具体时间请关注后续通知。",
+      "data":"2018-08-31",
+      "watch":1,
+      "id":20,
       "month":"August",
-      "day":"14",
+      "day":"31",
       "type":2
     },
     {
@@ -193,6 +203,16 @@
   ],
   "en":[
     {
+      "title":"Resumption of Sending Zcash(ZEC)",
+      "intro":"Dear Bitpiers, The upgrade of Zcash mainnet, Overwinter, is completed and Bitpie Wallet has finished the testing and upgrade targeting Zcash mainnet. Now the sending service of Zcash is resumed. Please update your Bitpie Wallet to the latest version v3.4.6 and enjoy the sending service.Thanks for your support for Bitpie Wallet.",
+      "data":"2018-08-10",
+      "watch":1,
+      "id":3,
+      "month":"August",
+      "day":"10",
+      "type":1
+    },
+    {
       "title":"Launch of the Period One Bytom (BTM) Financial Plan",
       "intro":"As a participant and supporter of Bytom ecology, Bitpie Team has always been optimistic about Bytom ecology and enthusiastic about related function development. Bitpie Wallet also developed Bytom-related security framework.",
       "data":"2018-08-14",
@@ -241,16 +261,6 @@
       "month":"August",
       "day":"10",
       "type":2
-    },
-    {
-      "title":"Resumption of Sending Zcash(ZEC)",
-      "intro":"Dear Bitpiers, The upgrade of Zcash mainnet, Overwinter, is completed and Bitpie Wallet has finished the testing and upgrade targeting Zcash mainnet. Now the sending service of Zcash is resumed. Please update your Bitpie Wallet to the latest version v3.4.6 and enjoy the sending service.Thanks for your support for Bitpie Wallet.",
-      "data":"2018-08-10",
-      "watch":1,
-      "id":3,
-      "month":"August",
-      "day":"10",
-      "type":1
     },
     {
       "title":"Notification to affected iOS users",

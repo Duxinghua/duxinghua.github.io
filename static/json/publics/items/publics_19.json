@@ -1,133 +1,25 @@
 {
   "cn":{
-    "title":"首期比原链 Bytom(BTM) 理财活动开启",
-    "data":"2018-08-14",
+    "title":"关于比特派恢复 BCH 充提的公告",
+    "data":"2018-09-03",
     "id":19,
     "watch":1879,
     "message":[
       {
         "type":0,
-        "data":"<span class='import'>活动时间 香港时间 2018年8月17日 12:00 至 9月16日 12:00</span>"
+        "data":"尊敬的派友："
       },
       {
         "type":0,
-        "data":"作为比原链生态参与者和支持者，比特派始终十分看好比原链生态，对比原链相关功能研发一直予以非常大的热情，钱包内也针对比原链适配了相关安全架构。"
+        "data":"BCH 压测已稳定，比特派现已恢复 BCH 的充提，暂停期间为您带来的不便，敬请谅解！"
       },
       {
         "type":0,
-        "data":"目前，钱包内比原链主网功能已研发完毕，进入紧张的测试阶段，将会尽快与大家见面。为助力比原链主网转换，促进比原链生态发展，比特派在支持比原链主网之际，开启此次 BTM 理财计划。"
-      },
-      {
-        "type":2,
-        "data":"参与此次理财计划将可享受双重福利："
-      },
-      {
-        "type":0,
-        "data":"1、无需进行任何操作，即可轻松转换 ERC 20 BTM 至主网 BTM<br/>2、在享受无缝切换主网 BTM 同时，亦可获得年化高达20%的收益"
-      },
-      {
-        "type":2,
-        "data":"规则如下："
-      },
-      {
-        "type":0,
-        "data":"1、此次计划只能使用 ERC20 BTM 参与，通过派银行充值即可购买理财，教程：<a href='http://docs.bitpie.com/zh_CN/latest/financialPlan/index.html' target='_blank'>理财流程</a><br/>2、活动分为5期，每期将提供1000万 BTM 理财额度，抢完即止<br/>3、每期理财定期期限一个月（30天），以购入时间点为准<br/>4、理财计划最低购买限额为100 BTM<br/>5、在理财期限到期后，购买理财所花费的 ERC20 BTM 将自动转换成主网 BTM 返还至购买账户"
-      },
-      {
-        "type":2,
-        "data":"注："
-      },
-      {
-        "type":0,
-        "data":"*理财计划为定期理财，未到期前不可提前支取<br/>*在法律允许的范围内，比特派保留对本活动的最终解释权"
-      },
-      {
-        "type":2,
-        "data":"产品特点"
-      },
-      {
-        "type":0,
-        "data":"<span class='import'>安全 ---- 比特派钱包安全有保障</span> <br/>比特派由比太团队开发，比太团队的“比太钱包”是首个被<a href='https://bitcoin.org/en/wallets/desktop/windows/bither/' target='_blank'> Bitcoin.org </a>推荐的“国产”比特币钱包."
-      },
-      {
-        "type":0,
-        "data":"<span class='import'>收益 ---- 高净值，低风险，收益看的见</span> <br/>100 BTM 可投，享受 20% 的年化收益<br/>注：温馨提示，投币越多收益越多，享年化利率20%"
-      },
-      {
-        "type":0,
-        "data":"<span class='import'>灵活 ---- ERC20 代币存入，主网币取出</span> <br/>ERC20 代币存入进行理财，到期后即可兑换出主网币。"
-      },
-      {
-        "type":0,
-        "data":"比特派团队<br/>2018年08月14日"
+        "data":"比特派团队<br/>2018年09月03日"
       },
       {
         "type":0,
         "data":"Bitpie 社群：<br/>新浪微博：@比特派钱包<a href='weibo.com/bitpiewallet' target='_blank'> weibo.com/bitpiewallet</a><br/>微信公众号：公众号搜索“比特派钱包”<br/>Telegram：<a href='t.me/bitpie1' target='_blank'>t.me/bitpie1</a>"
-      }
-    ]
-  },
-  "en":{
-    "title":"Launch of the Period One Bytom (BTM) Financial Plan",
-    "data":"2018-08-14",
-    "id":19,
-    "watch":22,
-    "message":[
-      {
-        "type":0,
-        "data":"Time: From 12:00 am, August 17, 2018 to 12:00 am, September 16, 2018 (Hong Kong Time)"
-      },
-      {
-        "type":0,
-        "data":"As a participant and supporter of Bytom ecology, Bitpie Team has always been optimistic about Bytom ecology and enthusiastic about related function development. Bitpie Wallet also developed Bytom-related security framework."
-      },
-      {
-        "type":0,
-        "data":"At present, the functions for Bytom mainnet in Bitpie Wallet have been developed and entered the intense testing stage, and will be released soon. To contribute to the Bytom mainnet conversion and promote the development of Bytom ecology, Bitpie Wallet launches the BTM financial plan while supporting BTM mainnet."
-      },
-      {
-        "type":2,
-        "data":"Participating in this financial plan will enjoy double benefits:"
-      },
-      {
-        "type":0,
-        "data":"1.ERC 20 BTM can be easily converted to the mainnet BTM without any operation;<br/>2.Enjoying an annual interest rate of 20%."
-      },
-      {
-        "type":2,
-        "data":"The rules are as follows."
-      },
-      {
-        "type":0,
-        "data":"1.Only for ERC20 BTM. Financial products can be purchased through depositing in Pie Bank;<br/>2.There are five periods of the whole financial plan. Each period will provide 10 million BTM quota for financial management, subject to availability;<br/>3.The term of each period is one month (30 days). The starting date is the time of purchase;<br/>4.The minimum purchase amount is 100 BTM;<br/>5.After the financial period expires, the ERC20 BTM spent on purchasing the financial products will be automatically converted into the mainnet BTM and returned to the purchase account."
-      },
-      {
-        "type":2,
-        "data":"Notes:"
-      },
-      {
-        "type":0,
-        "data":"*No earnings to unsubscribing within one month<br/>*Bitpie reserves the right to final interpretation of this activity.<br/>"
-      },
-      {
-        "type":0,
-        "data":"<span class='import'>Safety:</span>guarantee of safety by Bitpie Wallet<br/>Bitpie Wallet is developed by Bither team, who is also the developer of Bither Wallet, the bitcoin wallet recommended officially by bitcoin.org."
-      },
-      {
-        "type":0,
-        "data":"<span class='import'>Profitability: </span>high net profits with low risks<br/>To invest more than 100 BTM and gain profits with annualized rate of return being 20%.<br/>Tips:More BTM, more profits with 20% annualized rate."
-      },
-      {
-        "type":0,
-        "data":"<span class='import'>Flexibility: </span> ERC20 tokens for mainnet tokens"
-      },
-      {
-        "type":0,
-        "data":"Bitpie Team<br/>August 14, 2018"
-      },
-      {
-        "type":0,
-        "data":"Find us on<br/>Telegram：<a href='t.me/BitpieInternational' target='_blank'>t.me/BitpieInternational</a><br/>Twitter：<a href='twitter.com/BitpieWallet' target='_blank'>twitter.com/BitpieWallet</a>"
       }
     ]
   }

@@ -8,8 +8,8 @@
     "link":"https://www.huobi.pro/"
   },
   {
-    "src":"/static/image/index_friend/BTCC@2x.png",
-    "link":"https://www.btcc.com"
+    "src":"/static/image/index_friend/BYTOM@2x.png",
+    "link":"http://bytom.io/"
   },
   {
     "src":"/static/image/index_friend/FBG@2x.png",
@@ -22,6 +22,10 @@
   {
     "src":"/static/image/index_friend/jinse@2x.png",
     "link":"https://www.jinse.com/"
+  },
+  {
+    "src":"/static/image/index_friend/BTCC@2x.png",
+    "link":"https://www.btcc.com"
   },
   {
     "src":"/static/image/index_friend/8btc@2x.png",
@@ -38,10 +42,6 @@
   {
     "src":"/static/image/index_friend/TRON@2x.png",
     "link":"https://tron.network/"
-  },
-  {
-    "src":"/static/image/index_friend/BYTOM@2x.png",
-    "link":"http://bytom.io/"
   },
   {
     "src":"/static/image/index_friend/GXS@2x.png",

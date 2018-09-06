@@ -8,7 +8,7 @@
       "id":19,
       "month":"September",
       "day":"03",
-      "type":2
+      "type":1
     },
     {
       "title":"比特派钱包关于暂停 BCH 充提的公告",
@@ -18,7 +18,7 @@
       "id":20,
       "month":"August",
       "day":"31",
-      "type":2
+      "type":1
     },
     {
       "title":"关于恢复 Zcash（ZEC）发币功能的公告",
@@ -140,7 +140,7 @@
       "id":19,
       "month":"August",
       "day":"14",
-      "type":2
+      "type":1
     },
     {
       "title":"Notification to affected iOS users",

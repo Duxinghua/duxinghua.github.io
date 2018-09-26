@@ -8,7 +8,7 @@
       "id":19,
       "month":"September",
       "day":"03",
-      "type":1
+      "type":2
     },
     {
       "title":"比特派钱包关于暂停 BCH 充提的公告",
@@ -18,7 +18,47 @@
       "id":20,
       "month":"August",
       "day":"31",
-      "type":1
+      "type":2
+    },
+    {
+      "title":"ADD/EOS 交易竞赛获奖名单（第四期 8月11日 - 12日）",
+      "intro":"2018 年 8 月 8 日 16：00， 比特派 Bitpie 正式开通 ADD/EOS 交易对，为感谢平台用户的支持和信任，连同 ADD 同步上线交易大赛以及三重奖励，花样送好礼，详情可点击了解。",
+      "data":"2018-08-13",
+      "watch":1,
+      "id":18,
+      "month":"August",
+      "day":"13",
+      "type":2
+    },
+    {
+      "title":"ADD/EOS 交易竞赛获奖名单（第三期 8月10日 - 11日）",
+      "intro":"2018 年 8 月 8 日 16：00， 比特派 Bitpie 正式开通 ADD/EOS 交易对，为感谢平台用户的支持和信任，连同 ADD 同步上线交易大赛以及三重奖励，花样送好礼，详情可点击了解。",
+      "data":"2018-08-12",
+      "watch":1,
+      "id":17,
+      "month":"August",
+      "day":"12",
+      "type":2
+    },
+    {
+      "title":"ADD/EOS 交易竞赛获奖名单（第二期 8月9日 - 10日）",
+      "intro":"2018 年 8 月 8 日 16：00， 比特派 Bitpie 正式开通 ADD/EOS 交易对，为感谢平台用户的支持和信任，连同 ADD 同步上线交易大赛以及三重奖励，花样送好礼，详情可点击了解。",
+      "data":"2018-08-11",
+      "watch":1,
+      "id":6,
+      "month":"August",
+      "day":"11",
+      "type":2
+    },
+    {
+      "title":"ADD/EOS 交易竞赛获奖名单（第一期 8月8日 - 9日）",
+      "intro":"2018 年 8 月 8 日 16：00， 比特派 Bitpie 正式开通 ADD/EOS 交易对，为感谢平台用户的支持和信任，连同 ADD 同步上线交易大赛以及三重奖励，花样送好礼，详情可点击了解。",
+      "data":"2018-08-10",
+      "watch":1,
+      "id":5,
+      "month":"August",
+      "day":"10",
+      "type":2
     },
     {
       "title":"关于恢复 Zcash（ZEC）发币功能的公告",
@@ -39,6 +79,26 @@
       "month":"March",
       "day":"26",
       "type":1
+    },
+    {
+      "title":"关于派银行发放ADD、CHL糖果并开通交易的公告",
+      "intro":"亲爱的派友：派银行已进行ADD、CHL糖果的发放，同时开通 ADD/EOS、CHL/EOS 交易对及开放ADD交易大赛",
+      "data":"2018-08-08",
+      "watch":12,
+      "id":2,
+      "month":"August",
+      "day":"08",
+      "type":1
+    },
+    {
+      "title":"比特派钱包内交易所上线 ADD/EOS 和 CHL/EOS 交易对及 ADD 交易大赛公告",
+      "intro":"亲爱的派友：比特派 Bitpie 的派银行已于2018年8月6日16:00:00（香港时间）开通 ADD 和 CHL 充值提现通道。比特派 Bitpie 内置合作交易所将于 2018年8月8日16:00:00  (香港时间)  在 EOS 交易区上线 ADD/EOS 交易对以及 CHL/EOS 交易对。同时，比特派钱包将于2018年8月8日16:00:00  (香港时间) 开启 ADD/EOS 交易排名赛活动，同时进行空投和充值奖励活动，联合项目方豪掷200万 ADD，回馈广大派友。",
+      "data":"2018-08-06",
+      "watch":2011,
+      "id":4,
+      "month":"August",
+      "day":"06",
+      "type":2
     },
     {
       "title":"服务器升级通知",
@@ -71,6 +131,16 @@
       "type":3
     },
     {
+      "title":"比特派关于暂停一键买卖服务的公告",
+      "intro":"比特派将从即日起，对一键买卖功能架构进行大幅升级，因此将暂停一键买卖服务（ SCNY 卖出不受影响）。升级完成后，将会大幅缩小买卖价差，大幅降低交易手续费，极大优化一键买卖用户体验，同时提供更完善的 KYC 策略，以保证用户资金安全。本次升级时间预计为三周，具体恢复时间，另行通知。",
+      "data":"2018-07-10",
+      "watch":1,
+      "id":10,
+      "month":"July",
+      "day":"10",
+      "type":3
+    },
+    {
       "title":"派钱包已经支持波场 TRON 主网",
       "intro":"目前，比特派 Bitpie 已经完成对波场 TRON 的主网更新和支持。主网代币 TRX 的收发功能已经开启，用户即日起可以使用派钱包收发 TRX。",
       "data":"2018-07-09",
@@ -99,6 +169,16 @@
       "month":"June",
       "day":"30",
       "type":3
+    },
+    {
+      "title":"关于 SHOW 推出 ShowCoin 智能合约2.0",
+      "intro":"尊敬的用户：SHOW 团队将在2018年6月28日18:00:00-2018年6月29日16:00:00（GMT+8）对秀币代码进行升级，合约代码 name 升级为 ShowCoin2.0。针对此次合约升级，SHOW 团队将在2018年6月29日00:00:00（GTM+8）对现有持币地址进行快照，新的合约正式启用后会按照完全映射（1:1空投）给用户。原合约将会被弃用，对应的代币也将不再作为价值凭证。",
+      "data":"2018-06-28",
+      "watch":1,
+      "id":14,
+      "month":"June",
+      "day":"28",
+      "type":1
     },
     {
       "title":"关于暂停 Zcash（ZEC）发币功能的公告",
@@ -140,7 +220,47 @@
       "id":19,
       "month":"August",
       "day":"14",
-      "type":1
+      "type":2
+    },
+    {
+      "title":"ADD/EOS Trading Competition Winner Lists (Day Four 11th -12th Aug.)",
+      "intro":"At 16:00 8th August, Bitpie listed the ADD/EOS trading pair in its built-in exchange. To extend the gratitude to our users’ trust and supports, Bitpie and ADD launched the trading competition of ADD/EOS with multiple rewards. For details, please click",
+      "data":"2018-08-13",
+      "watch":1,
+      "id":18,
+      "month":"August",
+      "day":"13",
+      "type":2
+    },
+    {
+      "title":"ADD/EOS Trading Competition Winner Lists (Day Three 10th -11th Aug.)",
+      "intro":"At 16:00 8th August, Bitpie listed the ADD/EOS trading pair in its built-in exchange. To extend the gratitude to our users’ trust and supports, Bitpie and ADD launched the trading competition of ADD/EOS with multiple rewards. For details, please click",
+      "data":"2018-08-12",
+      "watch":1,
+      "id":17,
+      "month":"August",
+      "day":"12",
+      "type":2
+    },
+    {
+      "title":"ADD/EOS Trading Competition Winner Lists (Day Two 9th -10th Aug.)",
+      "intro":"At 16:00 8th August, Bitpie listed the ADD/EOS trading pair in its built-in exchange. To extend the gratitude to our users’ trust and supports, Bitpie and ADD launched the trading competition of ADD/EOS with multiple rewards. For details, please click",
+      "data":"2018-08-11",
+      "watch":1,
+      "id":6,
+      "month":"August",
+      "day":"11",
+      "type":2
+    },
+    {
+      "title":"ADD/EOS Trading Competition Winner Lists (Day One 8th -9th Aug.)",
+      "intro":"At 16:00 8th August, Bitpie listed the ADD/EOS trading pair in its built-in exchange. To extend the gratitude to our users’ trust and supports, Bitpie and ADD launched the trading competition of ADD/EOS with multiple rewards. For details, please click",
+      "data":"2018-08-10",
+      "watch":1,
+      "id":5,
+      "month":"August",
+      "day":"10",
+      "type":2
     },
     {
       "title":"Notification to affected iOS users",
@@ -151,6 +271,26 @@
       "month":"March",
       "day":"26",
       "type":1
+    },
+    {
+      "title":"Announcement of ADD and CHL Airdrops and Open of ADD and CHL Trade in Pie Bank",
+      "intro":"Dear Bitpiers,Pie Bank has opened the receiving of ADD and CHL airdrops. It has also launched ADD/EOS and CHL/EOS trading pairs and ADD trading competition",
+      "data":"2018-08-08",
+      "watch":12,
+      "id":2,
+      "month":"August",
+      "day":"08",
+      "type":1
+    },
+    {
+      "title":"Bitpie Built-in Exchange Lists ADD/EOS and CHL/EOS Trading Pairsand ADD/EOS Trading Competition",
+      "intro":"Dear Bitpiers:Bitpie’s Pie Bank has opened the deposit and withdrawal of ADD and CHL on August 6, 2018 at 16:00:00 (Hong Kong time).Bitpie’s built-in exchange will list ADD/EOS and CHL/EOS trading pairs on August 8, 2018 at 16:00:00 (Hong Kong time).Bitpie’s built-in exchange will launch ADD/EOS trading competition at 16:00:00 (Hong Kong time) on August 8, 2018, while at the same time the airdrop and rewarding activities will be held. 2 million ADDs will be awarded to Bitpiers.Detailed information is as follows.",
+      "data":"2018-08-06",
+      "watch":2011,
+      "id":4,
+      "month":"August",
+      "day":"06",
+      "type":2
     },
     {
       "title":"Server Upgrade Notification",
